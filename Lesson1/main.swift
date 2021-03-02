@@ -55,16 +55,19 @@ import Foundation
 //let result = list2.isSubset(of: list1)
 //print(result)
 
-var teamEmblema = Set<String>()
+//var teamEmblema = Set<String>()
+//
+//
+//teamEmblema.insert("Chelsy")
+//teamEmblema.insert("Chelsy")
+//teamEmblema.insert("Liverpool")
+//teamEmblema.insert("Chelsy")
+//teamEmblema.insert("Shaktar")
+//
+//print(teamEmblema)
+//
+//let arr = Array(teamEmblema)
 
 
-teamEmblema.insert("Chelsy")
-teamEmblema.insert("Chelsy")
-teamEmblema.insert("Liverpool")
-teamEmblema.insert("Chelsy")
-teamEmblema.insert("Shaktar")
-
-print(teamEmblema)
-
-let arr = Array(teamEmblema)
+// МОИ ИЗМЕНЕНИЯ
 
